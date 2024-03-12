@@ -13,3 +13,6 @@ Markup: die Kürzel, mit denen ehemals die Drucksetzer in den Manuscripten ihre 
 ## Texteigenschaften:
 - Fettdruck: zweimal "*", also **Wichtige Worte**
 - Kursiv: einmal "*", also *hervorgehoben*
+
+## Code schreiben
+`git commit -m "Nachricht"`
