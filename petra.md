@@ -1,6 +1,6 @@
 # Die Wahrheit über Markdown
 
-Markup: die Kürzel, mit denen ehemals die Drucksetzer in den Manuscripten ihre Formatierungen notierten
+Markup: die Kürzel, mit denen ehemals die Drucksetzer  in den Manuscript ihre Formatierungen notierten
 
 ## Überschrift
 
@@ -10,9 +10,7 @@ Markup: die Kürzel, mit denen ehemals die Drucksetzer in den Manuscripten ihre 
 
 [markdown.de](https://support.zendesk.com/hc/de/articles/4408846544922-Formatieren-von-Text-mit-Markdown)
 
-## Texteigenschaften:
+## Texteigenschaften
+
 - Fettdruck: zweimal "*", also **Wichtige Worte**
 - Kursiv: einmal "*", also *hervorgehoben*
-
-## Code schreiben
-`git commit -m "Nachricht"`

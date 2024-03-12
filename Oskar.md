@@ -16,4 +16,8 @@ Manuscripten ihre Formatierunge
 - Fettdruck: zweimal "*",
 also **Wichtige Worte**
 
-- kursiv: einmal "*", also *hervorgehoben*
+- kursiv: einmal "*" , also 
+*hervorgehoben*
+
+## Code schreiben
+`git commit -m "Nachricht"`
